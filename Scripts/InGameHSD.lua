@@ -1,9 +1,13 @@
 ------------------------------------------------------------------------------
 --	FILE:	 InGameHSD.lua
 --  Gedemon (2017)
+--  UPDATED:  09.2019, JMMiller
 ------------------------------------------------------------------------------
 
 print ("loading InGameHSD.lua")
+
+-- Quick to account for changes to member visibility
+LuaEvents = ExposedMembers.LuaEvents
 
 ----------------------------------------------------------------------------------------
 -- Historical Spawn Dates <<<<<

@@ -4,7 +4,8 @@
 		<Name>LOC_HISTORICAL_SPAWN_DATES_TITLE</Name>
 		<Teaser>LOC_HISTORICAL_SPAWN_DATES_TEASER</Teaser>
 		<Description>LOC_HISTORICAL_SPAWN_DATES_DESCRIPTION</Description>
-		<Authors>Gedemon</Authors>
+		<Authors>Gedemon, JMMiller</Authors>
+    	<CompatibleVersions>1.2,2.0</CompatibleVersions>
 	</Properties>
 	<LocalizedText>
 		<Text id="LOC_HISTORICAL_SPAWN_DATES_TITLE">

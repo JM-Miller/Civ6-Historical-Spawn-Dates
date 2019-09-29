@@ -1,7 +1,11 @@
 ------------------------------------------------------------------------------
 --	FILE:	 ScriptHSD.lua
 --  Gedemon (2017)
+--  UPDATED:  09.2019, JMMiller
 ------------------------------------------------------------------------------
+
+-- Quick to account for changes to member visibility
+ExposedMembers.LuaEvents = LuaEvents
 
 local HSD_Version = GameInfo.GlobalParameters["HSD_VERSION"].Value
 print ("Historical Spawn Dates version " .. tostring(HSD_Version) .." (2017) by Gedemon")
